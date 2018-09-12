@@ -44,9 +44,9 @@
 		89883DF2497F0E49E63952BB /* Pods-PocUtil_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PocUtil_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-PocUtil_Tests/Pods-PocUtil_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		91F2EB75531C756EB18BFFAB /* Pods_PocUtil_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_PocUtil_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		9838055ADA80212E72706B61 /* Pods-PocUtil_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PocUtil_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-PocUtil_Example/Pods-PocUtil_Example.release.xcconfig"; sourceTree = "<group>"; };
-		A237B2EF9D91F147228AD106 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		E6EAEFFC4AC3CD3DE2C03E9C /* PocUtil.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = PocUtil.podspec; path = ../PocUtil.podspec; sourceTree = "<group>"; };
-		E752D00DB301088FD0499B74 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		A237B2EF9D91F147228AD106 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		E6EAEFFC4AC3CD3DE2C03E9C /* PocUtil.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = PocUtil.podspec; path = ../PocUtil.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		E752D00DB301088FD0499B74 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */

@@ -1,0 +1,22 @@
+{
+  "name": "PocUtil",
+  "version": "0.1.0",
+  "summary": "A short description of PocUtil.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/pociosx/PocUtil",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "pociosx": "pociosx@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/pociosx/PocUtil.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PocUtil/Classes/**/*"
+}

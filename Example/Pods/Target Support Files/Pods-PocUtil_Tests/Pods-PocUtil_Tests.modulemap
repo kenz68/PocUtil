@@ -1,0 +1,6 @@
+framework module Pods_PocUtil_Tests {
+  umbrella header "Pods-PocUtil_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
